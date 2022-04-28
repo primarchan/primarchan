@@ -51,4 +51,11 @@
 
 <h2><b></b></h2>
 
+<a href="https://github.com/primarchan/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/primarchan/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/primarchan/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
