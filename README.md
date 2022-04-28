@@ -48,3 +48,7 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=Confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=plastic&logo=Atlassian&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white"/></a>  
+
+<h2><b></b></h2>
+
+[![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
