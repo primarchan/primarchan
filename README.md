@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
 <h2><b>:fire: TECH STACK</b></h2>  
 
 > ##### Back-End
