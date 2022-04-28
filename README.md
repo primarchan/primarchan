@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=250&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&desc=primarchan&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=250&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=45&desc=primarchan&descAlign=85)
 
 > #### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
