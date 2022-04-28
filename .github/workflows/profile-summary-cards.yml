@@ -19,6 +19,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env: # 깃허브 환경변수 가져오기 -> 이제 토큰 만들거임
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
