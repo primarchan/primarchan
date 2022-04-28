@@ -51,11 +51,7 @@
 
 <h2><b></b></h2>
 
-<a href="https://github.com/primarchan/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/primarchan/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/primarchan/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
