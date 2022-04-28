@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+ 
+on: #어떤 조건에 workflow를 trigger 시킬지 ex) push, pull_request ...
+  schedule: # execute every 24 hours - 24 시간마다 그래프 화면이 업데이트됨
+    - cron: '* */24 * * *' 
+  workflow_dispatch: #post request를 이용해 event 를 발생시킬수 있는 event occurs
+ 
+# jobs 단위로 개별 서버(정확히는 Docker 컨테이너 단위라고 한다.)에서 작업이 수행된다.
+# 각 작업은 병렬로 실행 된다고 하는데, needs: build와 같이 표시해서 기다릴 수도 있다.
+jobs:
+  build:
+    # Ubuntu, Windows, MacOS를 지원한다.
+    runs-on: ubuntu-latest
+    name: generate
+    
+    steps:
+      # uses 개념은 다른 사람이 작성한 내용을 실행하는 개념이다.
+      # actions/checkout: GitHub의 마지막 커밋으로 Checkout 한다.
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env: # 깃허브 환경변수 가져오기 -> 이제 토큰 만들거임
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
