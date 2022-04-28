@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85)  
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85)
+<h2 align="center"><b> :fire: TECH STACK :fire: </b></h2>  
+
 > ##### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
