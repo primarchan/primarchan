@@ -5,14 +5,17 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white"/></a>
 
 > ##### Front-end
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=Nuxt.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=Markdown&logoColor=white"/></a>
 
 > ##### Database
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/></a> 
@@ -49,9 +52,23 @@
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=plastic&logo=Atlassian&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white"/></a>  
 
-<h2><b></b></h2>
+<h2><b> :chart_with_upwards_trend: Overview <b></h2>
 
 ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2><b> :speech_balloon: About Me & Contact </b></h2>
+
+> #### Biography
+: kr :
+  
+> #### SNS
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Twitter-20C997?style=plastic&logo=Twitter&logoColor=white"/></a>
+
+> #### Blog
+<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Velog-1DA1F2?style=plastic&logo=Velog&logoColor=white"/></a>
