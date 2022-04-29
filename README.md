@@ -65,7 +65,7 @@
 > #### Info  
 
 🏦SanhaIT, Yanolja Community(2021.10 ~)  
-🏡Gwacheon-si, Gyeonggi-do, ROK(2021 ~)
+🏡Gwacheon-si, Gyeonggi-do, ROK(2021 ~)  
 🎓SKKU(2014 ~ 2018)  
 ♦♦ROKA Field Artillery K-9 Battalion First Lieutenant(2018 ~ 2020)
 
