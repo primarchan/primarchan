@@ -54,18 +54,20 @@
 
 <h2><b> 📈Overview <b></h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
 ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2><b> 💬About Me & Contact </b></h2>
 
-> #### Info
+> #### Info  
+
 🏦SanhaIT, Yanolja Community(2021.10 ~)  
-🏡Gwacheon-si, Gyeonggi-do, ROK
-🎓SKKU(2014 ~ 2018)
-♦♦ROKA Field Artillery K-9 Battalion First Lieutenant
+🏡Gwacheon-si, Gyeonggi-do, ROK(2021 ~)
+🎓SKKU(2014 ~ 2018)  
+♦♦ROKA Field Artillery K-9 Battalion First Lieutenant(2018 ~ 2020)
 
 > #### SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
