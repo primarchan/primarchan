@@ -61,11 +61,11 @@
 
 <h2><b> 💬About Me & Contact </b></h2>
 
-> #### Biography 
+> #### Info
 🏦SanhaIT, Yanolja Community(2021.10 ~)  
 🏡Gwacheon-si, Gyeonggi-do, ROK
 🎓SKKU(2014 ~ 2018)
-
+♦♦ROKA Field Artillery K-9 Battalion First Lieutenant
 
 > #### SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
