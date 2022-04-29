@@ -61,9 +61,10 @@
 
 <h2><b> :speech_balloon: About Me & Contact </b></h2>
 
-> #### Biography
-: kr :
-  
+> #### Biography 
+:bank: SanhaIT, Yanolja Community(2021.10 ~)
+:house_with_garden: Gwacheon-si, Gyeonggi-do, ROK
+
 > #### SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
