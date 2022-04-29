@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
-<h2><b>:fire: TECH STACK</b></h2>  
+<h2><b>⚡TECH STACK</b></h2>  
 
 > ##### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
@@ -52,18 +52,20 @@
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=plastic&logo=Atlassian&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white"/></a>  
 
-<h2><b> :chart_with_upwards_trend: Overview <b></h2>
+<h2><b> 📈Overview <b></h2>
 
 ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2><b> :speech_balloon: About Me & Contact </b></h2>
+<h2><b> 💬About Me & Contact </b></h2>
 
 > #### Biography 
-:bank: SanhaIT, Yanolja Community(2021.10 ~)
-:house_with_garden: Gwacheon-si, Gyeonggi-do, ROK
+🏦SanhaIT, Yanolja Community(2021.10 ~)  
+🏡Gwacheon-si, Gyeonggi-do, ROK
+🎓SKKU(2014 ~ 2018)
+
 
 > #### SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
