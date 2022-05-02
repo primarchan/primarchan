@@ -56,7 +56,7 @@
 
 ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)    
   
-[![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan)
   
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
