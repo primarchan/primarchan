@@ -54,10 +54,9 @@
 
 <h2><b> 📈Overview <b></h2>  
 
-[![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan)  
+![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)    
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
-![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)  
+[![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
   
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -70,6 +69,8 @@
 🎓SKKU(2014 ~ 2018)  
 ♦♦ROKA Field Artillery K-9 Battalion First Lieutenant(2018 ~ 2020)
 
+> #### 교육 / 자격증  
+  
 > #### SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
