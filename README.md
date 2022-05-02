@@ -65,11 +65,9 @@
 > #### Info  
 🏦SanhaIT, Yanolja Community(Seoul, 2021~)  
 🏡Gwacheon-si, Gyeonggi-do, KR  
-🎓Sungkyunkwan Univ.(2014 ~ 2018)  
+🎓<a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
 👨‍✈️1031 ROTC #56  
 🎖ROKA Field Artillery K-9 Battalion Officer(First Lieutenant/Fire Direction Officer, 2018~2020)  
-
-<a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>
 
 > #### 교육 / 자격증  
 📌정보처리기사/한국산업인력공단(2021.08)  
