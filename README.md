@@ -54,6 +54,8 @@
 
 <h2><b> 📈Overview <b></h2>  
 
+[![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan)  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
 ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)  
   
