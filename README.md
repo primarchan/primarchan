@@ -64,12 +64,17 @@
 
 > #### Info  
 
-🏦SanhaIT, Yanolja Community(2021.10 ~)  
-🏡Gwacheon-si, Gyeonggi-do, ROK(2021 ~)  
+🏦SanhaIT, Yanolja Community(Seoul, 2021~)  
+🏡Gwacheon-si, Gyeonggi-do, KR  
 🎓SKKU(2014 ~ 2018)  
-♦♦ROKA Field Artillery K-9 Battalion First Lieutenant(2018 ~ 2020)
-
+👨‍✈️1031 ROTC #56  
+🎖ROKA Field Artillery K-9 Battalion Officer(First Lieutenant/Fire Direction Officer, 2018~2020)  
+	
 > #### 교육 / 자격증  
+📌정보처리기사/한국산업인력공단(2021.08)  
+📌SQLD/한국데이터베이스진흥센터(2021.10)  
+📌네트워크 관리사 2급(필기)/한국데이터베이스진흥센터(2021.08)  
+📌리눅스 마스터 2급(필기)/정보통신기술자격검정(예정)  
   
 > #### SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
