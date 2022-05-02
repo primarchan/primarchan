@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/></a>  
 
 > ##### Front-end
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/></a>
