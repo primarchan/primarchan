@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=Nuxt.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Webpack-#DD6F9?style=plastic&logo=Webpack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Webpack-DD6F9?style=plastic&logo=Webpack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>
