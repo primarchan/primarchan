@@ -63,8 +63,11 @@
   
 [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2><b> 💬About Me & Contact </b></h2>
-
+<h2><b> 💬About Me & Contact </b></h2>  
+  
+> #### Portfolio  
+<a href="https://github.com/primarchan/portfolio">![Badge](https://img.shields.io/badge/Portfolio-2021~2022-skyblue.svg?style(plastic))</a>
+  
 > #### Info  
 🏦SanhaIT, Yanolja Community(Seoul, 2021~)  
 🏡Gwacheon-si, Gyeonggi-do, KR  
