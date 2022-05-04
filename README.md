@@ -78,10 +78,11 @@
 📌네트워크 관리사 2급(필기)/한국데이터베이스진흥센터(2021.08)  
 📌리눅스 마스터 2급(필기)/정보통신기술자격검정(예정)  
   
-> #### SNS
+> #### SNS & Email
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Twitter-20C997?style=plastic&logo=Twitter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 
 > #### Blog
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
