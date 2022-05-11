@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
 <h2><b>⚡TECH STACK</b></h2>  
 
+<details>
+<summary><b>TECH STACK 상세 </b></summary>
+<div markdown="1">
+
 > ##### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
@@ -54,6 +58,9 @@
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=Confluence&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=plastic&logo=Atlassian&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white"/></a>  
+
+</div>
+</details>
 
 <h2><b> 📈Overview <b></h2>  
 
