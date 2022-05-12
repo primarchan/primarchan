@@ -2,7 +2,7 @@
 <h2><b>⚡TECH STACK</b></h2>  
 
 <details>
-<summary><b>TECH STACK 상세 </b></summary>
+<summary><b>TECH STACK 상세 보기(클릭) </b></summary>
 <div markdown="1">
 
 > ##### Back-End
