@@ -91,7 +91,7 @@
 📌ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata) (2023 1Q 예정)  
   
 > #### SNS & Email
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev.primarchan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Twitter-20C997?style=plastic&logo=Twitter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
