@@ -90,19 +90,19 @@
 <a href="https://github.com/primarchan/portfolio">![Badge](https://img.shields.io/badge/Portfolio-2021~2022-skyblue.svg?style(plastic))</a>
   
 > #### Info  
-🏦SanhaIT, Yanolja Community(Seoul, 2021~)  
-🏡Gwacheon-si, Gyeonggi-do, KR  
-🎓<a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
-👨‍✈️1031 ROTC #56  
-🎖ROKA Field Artillery K-9 Battalion Officer(First Lieutenant/Fire Direction Officer, 2018~2020)  
+🏦 SanhaIT, Yanolja Community(Seoul, 2021~)  
+🏡 Gwacheon-si, Gyeonggi-do, KR  
+🎓 <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
+👨‍✈️ 1031 ROTC #56  
+🎖 ROKA Field Artillery K-9 Battalion (First Lieutenant/FDO, 2018.03~2020.06)  
 
 > #### 교육 / 자격증  
-📌정보처리기사 / 과학기술정보통신부(주관), 한국산업인력공단(시행) (2021.08)  
-📌SQLD(개발자) / 한국데이터산업진흥원(Kdata) (2021.10)   
-📌네트워크 관리사 2급 / 한국정보통신자격협회(ICQA) (2022.10)  
-📌리눅스 마스터 2급 / 한국정보통신진흥협회(KAIT) (2022.12 예정)  
-📌빅데이터분석기사 / 한국데이터산업진흥원(Kdata) (2023 1Q 예정)  
-📌ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata) (2023 1Q 예정)  
+📌 정보처리기사 / 과학기술정보통신부(주관), 한국산업인력공단(시행) (2021.08)  
+📌 SQLD(개발자) / 한국데이터산업진흥원(Kdata) (2021.10)   
+📌 네트워크 관리사 2급 / 한국정보통신자격협회(ICQA) (2022.10)  
+📌 리눅스 마스터 2급 / 한국정보통신진흥협회(KAIT) (2022.12 예정)  
+📌 빅데이터분석기사 / 한국데이터산업진흥원(Kdata) (2023 1Q 예정)  
+📌 ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata) (2023 1Q 예정)  
   
 > #### SNS & Email
 <a href="https://www.instagram.com/dev.primarchan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
