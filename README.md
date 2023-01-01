@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=radical&hide=html,css" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=primarchan&theme=radical&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=primarchan&theme=radical&show_icons=true" width="42%" height="100%" />
 </a>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=primarchan&theme=flat&column=7)](https://github.com/primarchan/)  
