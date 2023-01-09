@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=TaeGyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=Tae%20Gyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=2년차+백엔드+주니어+개발자+안태균입니다😃&font=Nanum+Pen+Script&size=30)](https://git.io/typing-svg) 
   
