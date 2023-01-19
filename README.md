@@ -111,5 +111,4 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 
 > #### Blog
-<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Velog-1DA1F2?style=plastic&logo=Velog&logoColor=white"/></a>
