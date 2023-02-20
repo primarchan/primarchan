@@ -82,7 +82,7 @@
   
 [![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan)  
   
-[![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <h2><b> 💬About Me & Contact </b></h2>  
   
