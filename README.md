@@ -71,7 +71,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=radical&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=primarchan&theme=radical&show_icons=true" width="49.2%" />
