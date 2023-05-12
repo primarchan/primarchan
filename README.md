@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=GitLab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=plastic&logo=Subversion&logoColor=white"/></a>
 
-> ##### Infra/Server  
+> ##### Infra / Server  
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=plastic&logo=Apache%20Tomcat&logoColor=white"/></a>
