@@ -64,7 +64,7 @@
 </div>
 </details>
 
-<h2><b> 📈Overview <b></h2>  
+<h2><b>📈 Overview<b></h2>  
 
 <!-- ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)     -->
   
