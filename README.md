@@ -92,7 +92,7 @@
 🏦 SanhaIT, Yanolja Community(Seoul, 2021~)  
 🏡 Gwacheon-si, Gyeonggi-do, KR  
 🎓 <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
-👨‍✈️ 1031 ROTC #56  
+👨‍✈️ SKKU 1031 ROTC #56  
 🎖 ROKA Field Artillery K-9 Battalion (First Lieutenant/FDO, 2018.03~2020.06)  
 
 > #### 교육 / 자격증  
