@@ -86,7 +86,7 @@
 <h2><b>💬 About Me & Contact</b></h2>  
   
 > #### Portfolio  
-<a href="https://github.com/primarchan/portfolio">![Badge](https://img.shields.io/badge/Portfolio-2021~2022-skyblue.svg?style(plastic))</a>
+<a href="https://github.com/primarchan/portfolio">![Badge](https://img.shields.io/badge/Portfolio-2021~2022-skyblue.svg?style(plastic))</a>  
 <a href="#">![Badge](https://img.shields.io/badge/Portfolio-2022~2023-skyblue.svg?style(plastic))</a>
   
 > #### Info  
