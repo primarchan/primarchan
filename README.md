@@ -108,7 +108,7 @@
   📖 AWS CLF(Cloud Practitioner Foundational) / Amazon Web Services(2023 3Q 예정)  
   📖 AWS SAA(Solutions Architect Associate) / Amazon Web Services(2023 4Q 예정)  
   📖 AWS DVA(Developer Associate) / Amazon Web Services  
-  📖 AWS DVA(SysOps Administrator Associate) / Amazon Web Services  
+  📖 AWS SAP(SysOps Administrator Associate) / Amazon Web Services  
   
 > #### SNS & Email
 <a href="https://www.instagram.com/dev.primarchan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
