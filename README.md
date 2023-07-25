@@ -10,6 +10,7 @@
 
 > ##### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/></a>  
@@ -29,8 +30,10 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=plastic&logo=Apache%20Kafka&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=plastic&logo=Apache%20Kafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=Elasticsearch&logoColor=white"/></a>  
 
 > ##### Version Control  
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></a>
@@ -40,7 +43,10 @@
 > ##### Infra / Server  
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=plastic&logo=Github%20Actions&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=Vim&logoColor=white"/></a>  
 
 > ##### Big Data 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
@@ -110,12 +116,12 @@
   📌 SQLD(개발자) / 한국데이터산업진흥원(Kdata)(2021.10)   
   📌 네트워크 관리사 2급 / 한국정보통신자격협회(ICQA)(2022.10)  
   📌 리눅스 마스터 2급 / 한국정보통신진흥협회(KAIT)(2022.12, 1차 합격)  
-  📖 ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata)(2023 3Q 예정)  
-- 민간 사설 자격증  
-  📖 AWS CLF(Cloud Practitioner Foundational) / Amazon Web Services(2023 3Q 예정)  
-  📖 AWS SAA(Solutions Architect Associate) / Amazon Web Services(2023 4Q 예정)  
-  📖 AWS DVA(Developer Associate) / Amazon Web Services  
-  📖 AWS SAP(SysOps Administrator Associate) / Amazon Web Services  
+  <!-- 📖 ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata)(2023 3Q 예정)  -->
+<!-- - 민간 사설 자격증  -->
+  <!-- 📖 AWS CLF(Cloud Practitioner Foundational) / Amazon Web Services(2023 3Q 예정)  -->
+  <!-- 📖 AWS SAA(Solutions Architect Associate) / Amazon Web Services(2023 4Q 예정)  -->
+  <!-- 📖 AWS DVA(Developer Associate) / Amazon Web Services  -->
+  <!-- 📖 AWS SAP(SysOps Administrator Associate) / Amazon Web Services  -->
   
 > #### SNS & Email
 <a href="https://www.instagram.com/dev.primarchan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
