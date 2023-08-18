@@ -79,22 +79,15 @@
 
 <h2><b>📈 Overview<b></h2>  
 
-<!-- ![Tae Gyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=primarchan&show_icons=true&theme=radical)     -->
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
-
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" />
 </a>
+
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=primarchan&theme=radical&show_icons=true" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=primarchan&theme=radical&show_icons=true" width="49%" />
 </a>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=primarchan&theme=flat&column=7)](https://github.com/primarchan/)  
-  
 [![Solved.ac primarchan](http://mazassumnida.wtf/api/generate_badge?boj=primarchan)](https://solved.ac/primarchan)  
-  
-<!-- [![Tae Gyun An's github activity graph](https://activity-graph.herokuapp.com/graph?username=primarchan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <h2><b>💬 About Me & Contact</b></h2>  
   
