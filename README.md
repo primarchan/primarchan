@@ -110,7 +110,7 @@
   📌 SQLD(개발자) / 한국데이터산업진흥원(Kdata)(2021.10)   
   📌 네트워크관리사 2급 / 한국정보통신자격협회(ICQA)(2022.10)  
   📌 리눅스마스터 2급 / 한국정보통신진흥협회(KAIT)(2022.12, 1차 합격)  
-  📖 ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata)(2023 4Q 예정)
+  <!-- -📖 ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata)(2023 4Q 예정)  -->
 <!-- - 민간 사설 자격증  -->
   <!-- 📖 AWS CLF(Cloud Practitioner Foundational) / Amazon Web Services(2023 3Q 예정)  -->
   <!-- 📖 AWS SAA(Solutions Architect Associate) / Amazon Web Services(2023 4Q 예정)  -->
