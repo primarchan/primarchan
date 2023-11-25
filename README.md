@@ -117,11 +117,13 @@
   <!-- 📖 AWS DVA(Developer Associate) / Amazon Web Services  -->
   <!-- 📖 AWS SAP(SysOps Administrator Associate) / Amazon Web Services  -->
   
-> #### SNS & Email
+> #### Email
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>  
+
+> #### SNS
 <a href="https://www.instagram.com/dev.primarchan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/primarchan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=Facebook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Twitter-20C997?style=plastic&logo=Twitter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 
 > #### Blog
 <img src="https://img.shields.io/badge/Velog-1DA1F2?style=plastic&logo=Velog&logoColor=white"/></a>
