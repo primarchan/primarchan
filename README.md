@@ -101,7 +101,7 @@
 🏡 Gwacheon-si, Gyeonggi-do, KR  
 🎓 <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
 👨‍✈️ SKKU 1031 ROTC #56  
-🎖 ROKA Field Artillery K-9 Battalion (First Lieutenant/FDO, 2018.03~2020.06)  
+🎖 ROKA Field Artillery K-9 Battalion (1st Lieutenant/FDO, 2018.03~2020.06)  
 
 > #### 교육 / 자격증
 - 국가 공인 자격증  
