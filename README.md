@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=Express&logoColor=white"/></a>  
 
-> ##### Front-end
+> ##### Front-End
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Expo-000020?style=plastic&logo=Expo&logoColor=white"/></a>
