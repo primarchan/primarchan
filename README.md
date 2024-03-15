@@ -98,7 +98,7 @@
 <a href="#">![Badge](https://img.shields.io/badge/Portfolio-2022~2023-skyblue.svg?style(plastic))</a>
   
 > #### Info  
-🏦 SanhaIT, Yanolja Community(Seoul, 2021.10 ~ )  
+🏦 SanhaIT, Yanolja Community(Seoul, 2021.10 ~ 2023.11)  
 🏡 Gwacheon-si, Gyeonggi-do, Republic of Korea  
 🎓 <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
 👨‍✈️ SKKU 1031 ROTC #56  
