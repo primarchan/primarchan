@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=Eclipse%20IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=Atom&logoColor=white"/></a>  
 
-> ##### Collaboration Tools
+> ##### Tools
 <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=Confluence&logoColor=white"/></a>
