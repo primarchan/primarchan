@@ -79,7 +79,7 @@
 </div>
 </details>
 
-<h2><b> 📈 Overview <b></h2>  
+<h2><b>📈 Overview<b></h2>  
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=primarchan&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" />
