@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=3년차+백엔드+서버+개발자+안태균입니다😃&font=Nanum+Pen+Script&size=30)](https://git.io/typing-svg) 
   
-<h2><b>⚡TECH STACK</b></h2>  
+<h2><b>⚡ TECH STACK</b></h2>  
 
 <details>
 <summary><b>TECH STACK 상세 보기 (펼쳐보기)</b></summary>
