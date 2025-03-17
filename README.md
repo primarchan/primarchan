@@ -98,10 +98,11 @@
 <a href="#">![Badge](https://img.shields.io/badge/Portfolio-2022~2023-skyblue.svg?style(plastic))</a>
   
 > #### Info  
-🏦 SanhaIT, Yanolja Community(Seoul, 2021.10 ~ 2023.11)  
+🏦 IB Leaders Co., Ltd (2024 ~ )  
+🏦 SanhaIT, Yanolja Community(2021 ~ 2023)  
 🏡 Gwacheon-si, Gyeonggi-do, Republic of Korea  
 🎓 SungKyunKwan Univ. #14 <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>  
-🎓국가평생교육진흥원 학점은행제 컴퓨터공학 학사 (2024.07 ~ 2025.02 취득 예정)  
+🎓국가평생교육진흥원 학점은행제 컴퓨터공학 학사 (2024.07 ~ 2025.08)  
 🎖 SKKU 1031 ROTC #56  
 🎖 ROKA Field Artillery K9 Battalion (1st Lieutenant/FDO, 2018.03~2020.06)  
 
