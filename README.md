@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=Tae%20Gyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=3년차+백엔드+서버+개발자+안태균입니다😃&font=Nanum+Pen+Script&size=30)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=4년차+웹+개발자+안태균입니다😃&font=Nanum+Pen+Script&size=30)](https://git.io/typing-svg) 
   
-<h2><b>⚡ TECH STACK</b></h2>  
+<h2><b>⚡TECH STACK</b></h2>  
 
 <details>
 <summary><b>TECH STACK 상세 보기(펼쳐보기)</b></summary>
@@ -112,8 +112,7 @@
   📌 빅데이터분석기사 / 과학기술정보통신부 및 통계청(주관) / 한국데이터산업진흥원(Kdata)(시행)(2023.07)  
   📌 SQLD(개발자) / 한국데이터산업진흥원(Kdata)(2021.10)   
   📌 네트워크관리사 2급 / 한국정보통신자격협회(ICQA)(2022.10)  
-  📌 리눅스마스터 2급 / 한국정보통신진흥협회(2023.12)
-  📌 리눅스마스터 1급 1차 / 한국정보통신진흥협회(2025.03)  
+  📌 리눅스마스터 2급 / 한국정보통신진흥협회(2023.12)   
   <!-- -📖 ADsP(데이터분석준전문가) / 한국데이터산업진흥원(Kdata)  -->
 <!-- - 민간사설자격증  -->
   <!-- 📖 AWS CLF(Cloud Practitioner Foundational) / Amazon Web Services  -->
