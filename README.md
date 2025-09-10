@@ -101,9 +101,9 @@
 🏦 IB Leaders Co., Ltd (2024-present)  
 🏦 SanhaIT Co., Ltd. (Yanolja Community) (2021-2023)  
 🏡 Gwacheon-si, Gyeonggi-do, ROK  
-🎓 Bachelor of Physical Education, SKKU #14 (2014.03-2018.02) <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014-2018-green.svg?style(plastic))</a>   
+🎓 Bachelor of Physical Education, SKKU #14 (2014.03-2018.02) <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/Sungkyunkwan%20Univ.-2014~2018-green.svg?style(plastic))</a>   
 🎓 Bachelor of Engineering in Computer Engineering, National Institute for Lifelong Education (2024.07-2025.08)  
-🎖 SKKU 1031 ROTC #56 (2016.01-2018.03) <a href="https://www.skku.edu/skku/campus/support/rotc.do">![Badge](https://img.shields.io/badge/1031%ROTC-2016-2018-green.svg?style(plastic))</a>  
+🎖 SKKU 1031 ROTC #56 (2016.01-2018.03) <a href="https://www.skku.edu/skku/campus/support/rotc.do">![Badge](https://img.shields.io/badge/1031%ROTC-2016~2018-blue.svg?style(plastic))</a>  
 🎖 ROKA K9 FA BN (1st Lt. / FSO, FDO) (2018.03-2020.06)  
 
 > #### 자격증
