@@ -104,7 +104,7 @@
 🎓 Bachelor of Physical Education, SKKU #14 (2014.03-2018.02) <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/SKKU-2014~2018-green.svg?style=plastic)</a>   
 🎓 Bachelor of Engineering in Computer Engineering, NILE #24 (2024.07-2025.08)  <a href="https://www.nile.or.kr/index.do?lang=en">![Badge](https://img.shields.io/badge/NILE-2024~2025-yellow.svg?style=plastic)</a>   
 🎖 SKKU 1031 ROTC #56 (2016.01-2018.03) <a href="https://www.skku.edu/skku/campus/support/rotc.do">![Badge](https://img.shields.io/badge/1031%20ROTC-2016~2018-blue.svg?style=plastic)</a>  
-🎖 ROKA K9 FA BN (1st Lt. / FSO, FDO) (2018.03-2020.06)  <a href="https://www.army.mil.kr/sites/army/index.do">![Badge](https://img.shields.io/badge/ROKA%20OFFICER-2018~2020-#006341.svg?style=plastic)</a>  
+🎖 ROKA K9 FA BN (1st Lt. / FSO, FDO) (2018.03-2020.06)  <a href="https://www.army.mil.kr/sites/army/index.do">![Badge](https://img.shields.io/badge/ROKA%20OFFICER-2018~2020-006341.svg?style=plastic)</a>  
 
 > #### 자격증
 - 국가공인자격증  
