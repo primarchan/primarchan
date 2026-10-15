@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&fontColor=ffffff&height=200&section=header&text=Tae%20Gyun%20An&render&fontSize=70&fontAlign=70&fontAlignY=30&desc=primarchan&descAlign=85&descAlignY=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=4년차+웹+개발자+안태균입니다😃&font=Nanum+Pen+Script&size=30)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=5년차+개발자+안태균입니다😃&font=Nanum+Pen+Script&size=30)](https://git.io/typing-svg) 
   
 <h2><b>⚡TECH STACK</b></h2>  
 
@@ -98,7 +98,8 @@
 <a href="#">![Badge](https://img.shields.io/badge/Portfolio-2022~2023-skyblue.svg?style(plastic))</a>
   
 > #### Info  
-🏦 IB Leaders Co., Ltd (2024-present)  
+🏦 SEOHYUN Co., Ltd (2026-present)  
+🏦 IB Leaders Co., Ltd (2024-2026)  
 🏦 SanhaIT Co., Ltd. (Yanolja Community) (2021-2023)  
 🏡 Gwacheon-si, Gyeonggi-do, ROK  
 🎓 Bachelor of Physical Education, SKKU #14 (2014.03-2018.02) <a href="https://www.skku.edu/skku/index.do">![Badge](https://img.shields.io/badge/SKKU-2014~2018-green.svg?style=plastic)</a>   
@@ -109,7 +110,8 @@
 > #### 자격증
 - 국가공인자격증  
   📌 정보처리기사 / 과학기술정보통신부(주관) / 한국산업인력공단(시행)(2021.08)  
-  📌 빅데이터분석기사 / 과학기술정보통신부 및 통계청(주관) / 한국데이터산업진흥원(Kdata)(시행)(2023.07)  
+  📌 빅데이터분석기사 / 과학기술정보통신부 및 통계청(주관) / 한국데이터산업진흥원(Kdata)(시행)(2023.07)
+  📌 AWS Certified Solutions Architect - Associate / Amazon Web Services(AWS)(2026.03)
   📌 SQLD(개발자) / 한국데이터산업진흥원(Kdata)(2021.10)   
   📌 네트워크관리사 2급 / 한국정보통신자격협회(ICQA)(2022.10)  
   📌 리눅스마스터 2급 / 한국정보통신진흥협회(2023.12)   
