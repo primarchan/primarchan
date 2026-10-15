@@ -111,7 +111,7 @@
 - 국가공인자격증  
   📌 정보처리기사 / 과학기술정보통신부(주관) / 한국산업인력공단(시행)(2021.08)  
   📌 빅데이터분석기사 / 과학기술정보통신부 및 통계청(주관) / 한국데이터산업진흥원(Kdata)(시행)(2023.07)
-  📌 AWS Certified Solutions Architect - Associate / Amazon Web Services(AWS)(2026.03)
+  📌 AWS Certified Solutions Architect - Associate / Amazon Web Services(AWS)(2026.03)  
   📌 SQLD(개발자) / 한국데이터산업진흥원(Kdata)(2021.10)   
   📌 네트워크관리사 2급 / 한국정보통신자격협회(ICQA)(2022.10)  
   📌 리눅스마스터 2급 / 한국정보통신진흥협회(2023.12)   
